@@ -1,0 +1,31 @@
+.header ul li{
+	float:left;
+	margin-right:10px;
+}
+.msg {
+	float:left;
+	display:block;
+	margin-bottom:2px;
+	width:500px;
+	font-size:20px;
+	background-color:#FBB917;
+}
+
+.msg .name{
+	float:left;
+	width:140px;
+}
+.msg .text{
+	float:left;
+	width:300px;
+}
+.msg .date{
+	float:left;
+	width:50px;
+	font-size:12px;
+}
+
+.msg a{
+	color:#3B9C9C;
+	text-decoration:none;
+}

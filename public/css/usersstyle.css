@@ -1,0 +1,15 @@
+.myheader ul{
+	list-style:none;
+	display:block;
+}
+.myheader ul li{
+	float:left;
+	margin:20px;
+}
+.myheader ul a{
+	display:block;
+	color:#000;
+}
+.myheader ul a:hover{
+	color:#371C1C;
+}

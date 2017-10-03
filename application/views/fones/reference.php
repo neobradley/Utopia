@@ -1,0 +1,1 @@
+<section>	<h3>Reference</h3>	<a href="index">Back</a><a href="link">Add New Link</a>	<h3>Current Sources</h3>	<ul>		<?php			if(isset($list)):				foreach($list as $l):					echo "<li>".$l['A']['title']."<a href='link/".$l['A']['id']."'>Link</a>";				endforeach;			endif;		?>	</ul></section>

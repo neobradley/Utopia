@@ -1,0 +1,1 @@
+</div></div><footer>	<div class="footer">		<hr>			<span id="copyright">Utopia &copy; 2012</span>	</div></footer></body></html>

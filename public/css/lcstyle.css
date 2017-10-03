@@ -1,0 +1,19 @@
+.header ul li{
+	float:left;
+	margin-right:10px;
+}
+.hgroup{
+	display:block;
+}
+.hgroup .title{
+	width:70%;
+}
+.hgroup .back{
+	width:20%;
+}
+.board{
+	display:block;
+}
+.input{
+	display:block;
+}

@@ -1,0 +1,1 @@
+<div id="msg">	(<?php print_r($no);?>)</div>

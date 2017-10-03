@@ -1,0 +1,29 @@
+hr{color:#F2F2F2;width:95%;}
+.content{
+padding-left:15px;
+}
+.aside #loginForm{
+/* background-color:#009500; */
+font-size:14px;
+}
+.footer footer{
+display:block;
+padding-left:30px;
+padding-right:30px;
+}
+.footer #copyright{
+display:inline;
+position:relative;
+float:left;
+width:10%;
+}
+.footer #reference{
+display:inline;
+position:relative;
+float:right;
+width:20%;
+}
+.footer li{
+float:left;
+width:30%;
+}

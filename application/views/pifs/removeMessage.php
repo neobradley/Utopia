@@ -1,0 +1,1 @@
+<div id="error"><?php	if(isset($error))echo $error;?></div>
